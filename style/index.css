@@ -1,0 +1,13 @@
+#header{
+    text-align: center;
+    color: rgb(255, 140, 0);
+}
+.recipes-list{
+    margin-left: 605px;
+}
+.recipes-list li{
+    display: inline-block;
+}
+.rtt{
+    margin-left: 680px;
+}
